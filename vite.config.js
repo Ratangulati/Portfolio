@@ -10,6 +10,7 @@ export default defineConfig({
   },
   base: '/ratangulati/',
   build: {
+    outDir: 'dist',
     rollupOptions: {
       external: ['react-router-dom']
     }
