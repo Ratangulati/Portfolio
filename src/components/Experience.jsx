@@ -45,6 +45,18 @@ const Experience = () => {
                 </li>
               ))}
             </ul>
+            {experience.showContributionsLink && ( // Conditionally render the link based on a flag
+              <div className="mt-4">
+                <a
+                  href={experience.contributionsLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-500 hover:underline"
+                >
+                  See contributions
+                </a>
+              </div>
+            )}
           </VerticalTimelineElement>
         ))}
       </VerticalTimeline>

@@ -28,6 +28,8 @@ export const services = [
         'Implemented effective workflows and automation, resulting in more efficient and reliable project development.'
       ],
       'url': 'https://gssoc.girlscript.tech/',
+      'showContributionsLink': true,
+      'contributionsLink': 'https://nosy-heaven-3bd.notion.site/GSSOC-be6bc7a97f814e33930a279c9f476fcc'
     },
     {
       'company': 'Code Social',
@@ -48,12 +50,13 @@ export const services = [
       'duration': 'Oct 2023 - Oct 2023',
       'logo': 'https://pbs.twimg.com/profile_images/1697628838983778304/tz9etEGO_400x400.jpg',
       'points': [
-        'Hacktoberfest contributed in the beginning of my Open Source Journey.',
-        'Designed and implemented engaging contests to boost community participation and enthusiasm.',
-        'Facilitated collaborations between community members, helping to build connections.',
-        'Built and maintained strong, positive relationships with community members, fostering a collaborative and supportive environment.'
+        'Started my journey in open source during Hacktoberfest, gaining initial experience in collaborative coding.',
+        'Created clear guides and practical examples for ArgoCD, helping users understand and use the platform effectively.',
+        'Managed code versions using Git, ensuring smooth integration of changes and maintaining project consistency.'
       ],
       'url': 'https://hacktoberfest.com/',
+      'showContributionsLink': true,
+      'contributionsLink': 'https://brick-manicure-182.notion.site/Hacktoberfest-2023-495439c489d44fa482afa3ffba5a415a'
     },
   ];
   
