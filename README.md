@@ -1,7 +1,6 @@
 #  Ratan Gulati
 
 
-<img align="right" alt="coding" width="400" src="https://www.darwinrecruitment.no/wp-content/uploads/2022/03/About-us-Temp-to-Perm.gif">
 Aspiring DevOps engineer • Open Source Enthusiast • Passionate about coding • I love collaboration • 
 
 
