@@ -7,5 +7,6 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     include: ['fast-simplex-noise']
-  }
+  },
+  base: '/ratangulati/' 
 })

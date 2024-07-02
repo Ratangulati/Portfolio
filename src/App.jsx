@@ -12,7 +12,7 @@ const Contact = React.lazy(() => import('./components/Contact'));
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ratangulati">
       <Navbar />
       <Suspense fallback={<Loading />}>
         <Routes>
