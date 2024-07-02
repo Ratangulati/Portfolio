@@ -8,11 +8,8 @@ export default defineConfig({
   optimizeDeps: {
     include: ['fast-simplex-noise']
   },
-  base: '/ratangulati/',
+  base: process.env.NODE_ENV === 'production' ? '/ratangulati/' : '/',
   build: {
     outDir: 'dist',
-    rollupOptions: {
-      external: ['react-router-dom']
-    }
   }
 })

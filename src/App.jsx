@@ -11,8 +11,10 @@ const About = React.lazy(() => import('./components/About'));
 const Contact = React.lazy(() => import('./components/Contact'));
 
 const App = () => {
+  const basename = process.env.NODE_ENV === 'production' ? '/ratangulati' : '/';
+
   return (
-    <HashRouter basename="/ratangulati">
+    <HashRouter basename={basename}>
       <Navbar />
       <Suspense fallback={<Loading />}>
         <Routes>
