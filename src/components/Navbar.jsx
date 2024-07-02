@@ -28,7 +28,7 @@ const Navbar = () => {
           <Link to='/about'>About</Link>
           <Link to='/projects'>Projects</Link>
           <Link to='/experience'>Experience</Link>
-          <Link to='https://bento.me/ratangulati'>Links</Link>
+          <Link to='https://bento.me/ratangulati' target="_blank" rel="noopener noreferrer">Links</Link>
           <Link to='/contact'>Contact</Link>
         </div>
         <div className="sm:hidden">
