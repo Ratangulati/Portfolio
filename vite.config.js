@@ -8,5 +8,10 @@ export default defineConfig({
   optimizeDeps: {
     include: ['fast-simplex-noise']
   },
-  base: '/ratangulati/' 
+  base: '/ratangulati/',
+  build: {
+    rollupOptions: {
+      external: ['react-router-dom']
+    }
+  }
 })

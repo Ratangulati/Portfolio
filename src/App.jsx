@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Loading from './components/Loading';
@@ -12,7 +12,7 @@ const Contact = React.lazy(() => import('./components/Contact'));
 
 const App = () => {
   return (
-    <BrowserRouter basename="/ratangulati">
+    <HashRouter basename="/ratangulati">
       <Navbar />
       <Suspense fallback={<Loading />}>
         <Routes>
@@ -24,7 +24,7 @@ const App = () => {
         </Routes>
       </Suspense>
       {/* <Footer /> */}
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
