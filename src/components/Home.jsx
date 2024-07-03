@@ -3,6 +3,8 @@ import { name } from '../constants';
 import Footer from './Footer';
 
 const Home = () => {
+  console.log('Home component rendered');
+
   const ref = useRef(0);
   const [text, setText] = useState('');
 

@@ -8,7 +8,7 @@ const Experience = () => {
   return (
     <div className='experience bg-black w-screen text-white pt-4 pt-16 overflow-x-hidden' id='experience'>
       <div className='pt-12 sm:px-16'>
-        <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Experience</h2>
+        <h2 className='text-4xl sm:text-5xl font-extrabold text-center mt-8'>Experience</h2>
       </div>
       <VerticalTimeline className='mt-9'>
         {experiences.map((experience, index) => (

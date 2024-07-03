@@ -29,7 +29,7 @@ const About = () => {
               • Beyond coding, I love sharing my learnings and experiences on various platforms, where I delve into the intricacies of software development and technology trends.
             </p>
             <ButtonLink
-              url='https://docs.google.com/document/d/14H0FDivvmYsD8k9MIAPx4qi-9l4JXS4HrrlmE0gYGE4/edit?usp=sharing'
+              url='https://drive.google.com/file/d/17xGLOTO1SkyxWEroFg9Wqbrd8WmYolte/view?usp=sharing'
               text='View Resume →'
               padding='p-3'
             />
