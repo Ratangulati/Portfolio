@@ -1,19 +1,50 @@
-#  Ratan Gulati
+
+<h1> Ratan Gulati 👋🏻 </h1>
 
 
-Aspiring DevOps engineer • Open Source Enthusiast • Passionate about coding • I love collaboration • 
-
-
-## 🚀 Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]() ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?flat&logo=terraform&logoColor=white)
-
- 
-- 🌱 I’m currently learning  MERN, AWS
-- 😄 Pronouns: He/Him 
-- 📧 Contact me: i.ratangulati@gmaill
+- ⚡️ GSSOC Contributor
+- 👨‍💻 Tech Blogger
+- 🖥️ Frontend Developer
+- 📧 Contact me: ratangulati.dev@gmail.com
 
 ---
 
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ratangulati.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratangulati/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ratanstwt) [![hashnode](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)](https://ratangulati.hashnode.dev/)
+## **My Tech Stack**
+
+<!--
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs,express,nextjs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,postgres,cloudflare,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,jenkins,kubernetes,grafana,prometheus,terraform,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,)](https://skillicons.dev)
+-->
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&ensp;
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&ensp;
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />&ensp;
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" />&ensp;
+          
+---
+
+## Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ratangulati.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratangulati/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ratanstwt) [![Hashnode](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)](https://ratangulati.hashnode.dev/) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ratangulati)
+
 
 <!--
 <a href="https://twitter.com/ratanstwt" target="_blank" rel="noreferrer"><img
